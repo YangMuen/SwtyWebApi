@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81E959AA-D854-49A2-8539-78BAC25BEE16}|SwtyApp.csproj|d:\\cvswork\\swtywebapi_2025-1-27\\swtywebapi_src_202501\\swtywebapi\\app_start\\swty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E959AA-D854-49A2-8539-78BAC25BEE16}|SwtyApp.csproj|solutionrelative:app_start\\swty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E959AA-D854-49A2-8539-78BAC25BEE16}|SwtyApp.csproj|D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E959AA-D854-49A2-8539-78BAC25BEE16}|SwtyApp.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E959AA-D854-49A2-8539-78BAC25BEE16}|SwtyApp.csproj|D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E959AA-D854-49A2-8539-78BAC25BEE16}|SwtyApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:13:56.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:11:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swty.cs",
+              "DocumentMoniker": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\App_Start\\swty.cs",
+              "RelativeDocumentMoniker": "App_Start\\swty.cs",
+              "ToolTip": "D:\\CvsWork\\SwtyWebApi_2025-1-27\\SwtyWebApi_src_202501\\SwtyWebApi\\App_Start\\swty.cs",
+              "RelativeToolTip": "App_Start\\swty.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:48:26.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
